@@ -25,6 +25,7 @@ function App() {
     <div style={styles.container}>
       <header style={styles.header}>
         <h1 style={styles.title}>Ejercicio api gateway</h1>
+        <h1 style={styles.title}>Lambda: arn:aws:execute-api:us-east-2:897722663116:pqta0zkb56/*/GET/dev</h1>
       </header>
 
       <div style={styles.grid}>
